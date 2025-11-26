@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Joel%20Mugo&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ICT%20Specialist%20|%20Security%20Analyst%20|%20BI%20&%20Data%20Expert&descAlignY=55&descAlign=50" alt="Joel Mugo Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=250&section=header&text=Joel%20Mugo&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=ICT%20Specialist%20|%20Security%20Analyst%20|%20BI%20&%20Data%20Expert&descAlignY=55&descAlign=50" alt="Joel Mugo Header" />
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@ Currently, I work as an **IT Reporting and Systems Analyst** at **Fairoils Group
 
 #### 📊 Enterprise ERP & BI Automation
 * **Tech:** Sage Evolution, SQL, Google Sheets, Google Scripts, BigQuery.
-* **Impact:** * Automated financial/operational reporting, reducing turnaround time.
+* **Impact:** Automated financial/operational reporting, reducing turnaround time.
     * Implemented QR codes for complete product traceability.
     * Upgraded Sage ERP across 3 companies in 2 countries.
 
@@ -83,12 +83,12 @@ I believe in continuous learning. Here are my key verified credentials:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=prussian&hide_border=true" alt="Joel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOELMUGO&show_icons=true&theme=prussian&hide_border=true" alt="Joel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELMUGO&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <small>Experienced in B.Sc Information Technology |KCA University </small>
+  <small>Experienced in B.Sc Information Technology | KCA University </small>
 </div>
