@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelmugo/)
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:Joelmugo4@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=github)](https://github.com/JOELMUGO)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20Out-black?style=for-the-badge&logo=github)](https://github.com/JOELMUGO)
 
 </div>
 
