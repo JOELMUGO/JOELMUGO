@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a results-driven **ICT Specialist** and **Security Analyst** with over **7.5 years of experience** in optimizing IT infrastructure, automating complex business processes, and securing enterprise data[cite: 25]. [cite_start]Based in **Nairobi, Kenya**[cite: 2], I bridge the gap between technical operations and strategic business intelligence.
+I am a results-driven **ICT Specialist** and **Security Analyst** with over **7.5 years of experience** in optimizing IT infrastructure, automating complex business processes, and securing enterprise data. Based in **Nairobi, Kenya**, I bridge the gap between technical operations and strategic business intelligence.
 
-[cite_start]Currently, I work as an **IT Reporting and Systems Analyst** at **Fairoils Group**, where I lead data integration and ERP optimization[cite: 37]. My passion lies in building resilient systems that drive decision-making and business continuity.
+Currently, I work as an **IT Reporting and Systems Analyst** at **Fairoils Group**, where I lead data integration and ERP optimization, IT Security and Utilizing AI to build awesome projects that automate mandane tasks and processes. My passion lies in building resilient systems that drive decision-making and business continuity.
 
-* [cite_start]🔭 **I’m currently working on:** Advanced Data Warehouse centralization using BigQuery [cite: 39] and LIMS development.
-* 🛡️ **I specialize in:** Cybersecurity (SOC/Pentesting), Business Intelligence (Power BI/Tableau), and Process Automation.
+* 🔭 **I’m currently working on:** Advanced Data Warehouse centralization using BigQuery, LIMS development, and Building AI Models that help with predictive analytics.
+* 🛡️ **I specialize in:** Cybersecurity (SOC/Pentesting), Business Intelligence (Looker Studio,Power BI/Tableau), and Process Automation.
 * 💡 **My secret weapon:** Combining **Security protocols** with **Data Analytics** to create safe, insightful business environments.
 
 ---
@@ -53,18 +53,18 @@
 
 #### 🧪 Custom LIMS (Laboratory Information Management System)
 * **Tech:** Next.js, Firebase Studio.
-* [cite_start]**Impact:** Built and deployed a customized LIMS software for worldwide use, streamlining laboratory data management[cite: 44].
+* **Impact:** Built and deployed a customized LIMS software for worldwide use, streamlining laboratory data management.
 
 #### 📊 Enterprise ERP & BI Automation
 * **Tech:** Sage Evolution, SQL, Google Sheets, Google Scripts, BigQuery.
-* [cite_start]**Impact:** * Automated financial/operational reporting, reducing turnaround time[cite: 10].
-    * [cite_start]Implemented QR codes for complete product traceability[cite: 41].
-    * [cite_start]Upgraded Sage ERP across 3 companies in 2 countries[cite: 41].
+* **Impact:** * Automated financial/operational reporting, reducing turnaround time.
+    * Implemented QR codes for complete product traceability.
+    * Upgraded Sage ERP across 3 companies in 2 countries.
 
 #### 🛡️ Infrastructure Security Hardening
 * **Tech:** Cisco Meraki, Microsoft Defender, Firewall Config.
-* [cite_start]**Impact:** * Reduced vulnerability exposure by **25%** and mitigated threats by **30%**[cite: 49].
-    * [cite_start]Maintained **99.9%** system uptime for critical business operations[cite: 48].
+* **Impact:** * Reduced vulnerability exposure by **25%** and mitigated threats by **30%**.
+    * Maintained **99.9%** system uptime for critical business operations.
 
 ---
 
@@ -74,9 +74,9 @@ I believe in continuous learning. Here are my key verified credentials:
 
 | Domain | Certification |
 | :--- | :--- |
-| **Cybersecurity** | [cite_start]• (ISC)² Certified in Cybersecurity [cite: 72][cite_start]<br>• Cisco Ethical Hacker [cite: 73][cite_start]<br>• CompTIA Security+ & Pentest+ [cite: 78][cite_start]<br>• Microsoft Certified: Azure SC-900 & SC-200 [cite: 76] |
-| **Data & Cloud** | [cite_start]• Microsoft Certified: Azure DP-100 (Data Science) [cite: 76][cite_start]<br>• AWS Cloud Practitioner Essentials [cite: 82][cite_start]<br>• Google Analytics [cite: 82] |
-| **Management** | [cite_start]• Certified Associate in Project Management [cite: 81][cite_start]<br>• ITIL 4 Fundamentals [cite: 79] |
+| **Cybersecurity** | • (ISC)² Certified in Cybersecurity <br>• Cisco Ethical Hacker <br>• CompTIA Security+ & Pentest+ <br>• Microsoft Certified: Azure SC-900 & SC-200 |
+| **Data & Cloud** | • Microsoft Certified: Azure DP-100 (Data Science) <br>• AWS Cloud Practitioner Essentials <br>• Google Analytics |
+| **Management** | • Certified Associate in Project Management <br>• ITIL 4 Fundamentals |
 
 ---
 
@@ -90,5 +90,5 @@ I believe in continuous learning. Here are my key verified credentials:
 ---
 
 <div align="center">
-  <small>Experienced in B.Sc Information Technology | [cite_start]KCA University [cite: 69]</small>
+  <small>Experienced in B.Sc Information Technology |KCA University </small>
 </div>
