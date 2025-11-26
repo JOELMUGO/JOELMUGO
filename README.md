@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Joel%20Mugo&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ICT%20Specialist%20|%20Security%20Analyst%20|%20BI%20&%20Data%20Expert&descAlignY=55&descAlign=50" alt="Joel Mugo Header" />
+</div>
 
-<!--
-**JOELMUGO/JOELMUGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelmugo/)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:Joelmugo4@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=github)](https://github.com/JOELMUGO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+[cite_start]I am a results-driven **ICT Specialist** and **Security Analyst** with over **7.5 years of experience** in optimizing IT infrastructure, automating complex business processes, and securing enterprise data[cite: 25]. [cite_start]Based in **Nairobi, Kenya**[cite: 2], I bridge the gap between technical operations and strategic business intelligence.
+
+[cite_start]Currently, I work as an **IT Reporting and Systems Analyst** at **Fairoils Group**, where I lead data integration and ERP optimization[cite: 37]. My passion lies in building resilient systems that drive decision-making and business continuity.
+
+* [cite_start]🔭 **I’m currently working on:** Advanced Data Warehouse centralization using BigQuery [cite: 39] and LIMS development.
+* 🛡️ **I specialize in:** Cybersecurity (SOC/Pentesting), Business Intelligence (Power BI/Tableau), and Process Automation.
+* 💡 **My secret weapon:** Combining **Security protocols** with **Data Analytics** to create safe, insightful business environments.
+
+---
+
+### 🛠️ Technical Stack
+
+**Data Analytics & BI**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Development & Database**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Security & Infrastructure**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🚀 Key Projects & Case Studies
+
+*Note: Some projects are proprietary commercial deployments.*
+
+#### 🧪 Custom LIMS (Laboratory Information Management System)
+* **Tech:** Next.js, Firebase Studio.
+* [cite_start]**Impact:** Built and deployed a customized LIMS software for worldwide use, streamlining laboratory data management[cite: 44].
+
+#### 📊 Enterprise ERP & BI Automation
+* **Tech:** Sage Evolution, SQL, Google Sheets, Google Scripts, BigQuery.
+* [cite_start]**Impact:** * Automated financial/operational reporting, reducing turnaround time[cite: 10].
+    * [cite_start]Implemented QR codes for complete product traceability[cite: 41].
+    * [cite_start]Upgraded Sage ERP across 3 companies in 2 countries[cite: 41].
+
+#### 🛡️ Infrastructure Security Hardening
+* **Tech:** Cisco Meraki, Microsoft Defender, Firewall Config.
+* [cite_start]**Impact:** * Reduced vulnerability exposure by **25%** and mitigated threats by **30%**[cite: 49].
+    * [cite_start]Maintained **99.9%** system uptime for critical business operations[cite: 48].
+
+---
+
+### 🏆 Certifications
+
+I believe in continuous learning. Here are my key verified credentials:
+
+| Domain | Certification |
+| :--- | :--- |
+| **Cybersecurity** | [cite_start]• (ISC)² Certified in Cybersecurity [cite: 72][cite_start]<br>• Cisco Ethical Hacker [cite: 73][cite_start]<br>• CompTIA Security+ & Pentest+ [cite: 78][cite_start]<br>• Microsoft Certified: Azure SC-900 & SC-200 [cite: 76] |
+| **Data & Cloud** | [cite_start]• Microsoft Certified: Azure DP-100 (Data Science) [cite: 76][cite_start]<br>• AWS Cloud Practitioner Essentials [cite: 82][cite_start]<br>• Google Analytics [cite: 82] |
+| **Management** | [cite_start]• Certified Associate in Project Management [cite: 81][cite_start]<br>• ITIL 4 Fundamentals [cite: 79] |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=prussian&hide_border=true" alt="Joel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <small>Experienced in B.Sc Information Technology | [cite_start]KCA University [cite: 69]</small>
+</div>
