@@ -83,12 +83,13 @@ I believe in continuous learning. Here are my key verified credentials:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOELMUGO&show_icons=true&theme=prussian&hide_border=true" alt="Joel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELMUGO&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOELMUGO&show_icons=true&theme=teal&hide_border=true&count_private=true" alt="Joel's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELMUGO&layout=compact&theme=teal&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <small>Experienced in B.Sc Information Technology | KCA University </small>
+  <small>Education in B.Sc Information Technology | KCA University, Nairobi, Kenya </small>
 </div>
