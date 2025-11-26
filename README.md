@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=250&section=header&text=Joel%20Mugo&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=ICT%20Specialist%20|%20Security%20Analyst%20|%20BI%20&%20Data%20Expert&descAlignY=55&descAlign=50" alt="Joel Mugo Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=250&section=header&text=Joel%20Mugo&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=ICT%20Specialist%20|%20Security%20Analyst%20|%20Business %20Intelligence%20&%20Data%20Expert&descAlignY=55&descAlign=50" alt="Joel Mugo Header" />
 </div>
 
 <div align="center">
